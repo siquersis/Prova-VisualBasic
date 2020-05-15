@@ -1,0 +1,16 @@
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.Cadastro.resources
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.Pesquisa.resources
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\PROJETOS C#\PROVA\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\PROJETOS C#\PROVA\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\PROJETOS C#\PROVA\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\PROJETOS C#\PROVA\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.Sobre.resources
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.SplashScreen1.resources
+C:\PROJETOS C#\PROVA\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
